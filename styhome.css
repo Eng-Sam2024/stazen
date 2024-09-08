@@ -1,0 +1,353 @@
+/* من هنا القائمة المنسدلة */
+/* .det {
+    background-color: aqua;
+    height: 20px;
+    width: 100px;
+    text-align: center;
+    border-radius: 12px;
+    padding: 5px;
+}
+summary{
+    color: rgb(36, 36, 129);
+    text-shadow: 1px 1px 2px rgb(109, 108, 108);
+}
+
+.det a {
+    text-decoration: none;
+    color: rgb(97, 41, 73);
+    background-color: rgb(226, 237, 249);
+    display: inline-block;
+    margin: 10px;
+    width: 60px;
+    height: 25px;
+    padding: 10px;
+    border-radius: 0px 10px 10px 0px;
+}
+
+.det .ass {
+    margin-top: 20px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* من هنا زر  */
+
+/* button{
+    border: 0;
+    padding: 10px;
+    border-radius: 8px 8px 0px 0px;
+    background-color: burlywood;
+}
+
+button:hover{
+    background-color: rgb(189, 157, 115);
+
+}
+button:active{
+    background-color: rgb(141, 117, 86);
+    color: beige;
+    border-radius: 0px 0px 8px 8px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* من هنا نموذج تسجيل دخول */
+
+/* main {
+    background-color: rgb(232, 239, 248);
+    width: 375px;
+    height: 710px;
+    border-radius: 20px;
+}
+
+table {
+    color: brown;
+    margin: 25px;
+    background-color: rgb(226, 247, 249);
+    border-radius: 12px;
+    text-align: center;
+
+}
+
+input {
+    padding: 10px;
+    border: 0;
+    border-radius: 12px;
+    margin: 5px;
+}
+
+select {
+    padding: 10px;
+    border: 0;
+    border-radius: 12px;
+}
+
+textarea {
+    padding: 10px;
+    border: 0;
+    border-radius: 12px;
+    margin: 5px;
+}
+
+button {
+    background-color: rgb(114, 114, 238);
+    color: aliceblue;
+    padding: 10px;
+    border: 0;
+    border-radius: 12px 12px 0px 0px;
+    margin: 5px 0px 5px 35px;
+    width: 90px;
+}
+
+button:hover {
+    background-color: rgb(166, 166, 245);
+    color: rgb(29, 101, 149);
+}
+
+button:active {
+    background-color: rgb(114, 114, 238);
+    color: aliceblue;
+    border-radius: 0px 0px 12px 12px;
+}
+
+span{
+    padding: 10px;
+    border: 0;
+    border-radius: 12px;
+    display: inline-block;
+} */
+
+
+
+
+
+/* كود زر رفع ملف pdf */
+/* form {
+    background-color: rgb(86, 162, 162);
+    width: 120px;
+    text-align: center;
+    padding: 3px;
+    border-radius: 6px;
+}
+
+form input {
+    display: none;
+}
+
+form button {
+    padding: 10px;
+    border: 0;
+}
+
+form button:active {
+    background-color: rgb(117, 117, 116);
+    color: aliceblue;
+    padding: 11px;
+}
+
+form #Kaf {
+    margin-right: 10px;
+    border-radius: 12px 0px 0px 12px;
+}
+
+form #subi {
+    border-radius: 0px 12px 12px 0px;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* كود تخطيط الصفحة */
+
+#content {
+    width: 1000px;
+    margin:200px auto;
+}
+
+header {
+    width: 900px;
+    height: 80px;
+    background: rebeccapurple;
+    border-radius: 12px 0px 0px 0px;
+    float: left;
+}
+
+nav {
+    width: 100px;
+    height: 80px;
+    background: rgb(131, 191, 244);
+    border-radius: 0px 12px 0px 0px;
+    float: right;
+}
+
+nav span:active {
+    transform: rotate(90deg);
+}
+
+
+nav span {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin: 15px 15px 40px 25px;
+    background: rgb(245, 238, 238);
+    border-radius: 25px;
+    transition-duration: 1s;
+}
+
+nav span p {
+    top: 9px;
+    left: 7px;
+    clear: both;
+    width: 28px;
+    height: 6px;
+    background: rgb(151, 145, 145);
+    margin: 4px;
+    position: relative;
+    border-radius: 8px;
+}
+
+main {
+    width: 1000px;
+    height: 1000px;
+    background: rgb(244, 230, 230);
+    float: inline-start;
+    margin: 5px 0px 0px 0px;
+}
+
+main #sf {
+    width: 980px;
+    height: 290px;
+    background: rgb(176, 176, 220);
+    margin: 10px;
+    border-radius: 12px 12px 0px 0px;
+}
+
+main #ss {
+    width: 980px;
+    height: 335px;
+    background: rgb(213, 213, 250);
+    margin: 10px;
+    border-radius: 0px 0px 0px 0px;
+}
+
+main #sth {
+    width: 980px;
+    height: 335px;
+    background: rgb(196, 196, 205);
+    margin: 10px;
+    border-radius: 0px 0px 12px 12px;
+}
+
+main section article {
+    float: left;
+    width: 225px;
+    height: 315px;
+    margin: 10px;
+    background: rgba(117, 111, 111, 0.74);
+    margin: 10px;
+}
+
+main section #af,
+#aff {
+    border-radius: 10px 0px 0px 10px;
+}
+
+main section #ae,
+#aee {
+    border-radius: 0px 10px 10px 0px;
+}
+
+footer {
+    clear: both;
+    float: inline-start;
+    background-color: #C1E5F5;
+    width: 1000px;
+    height: 400px;
+    margin: 10px 0px;
+    border-radius: 0px 0px 12px 12px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* زر تحميل ملف
+a button{
+    border: 0;
+    padding: 10px;
+    border-radius: 10px;
+    transition: 0.2s;
+    transition-property:all;
+}
+a button:active{
+    clear: both;
+    background: gray;
+    color: rgb(212, 213, 214);
+    position: relative;
+    left: 5px;
+    
+} */
+
+/* حقل يمكن تعديل قيمته
+.title_fqrah{
+    background: powderblue;
+    width: 20%;
+    height: 50px;
+    direction: rtl;
+text-align-last: center;
+border-radius: 5px;
+
+} */
